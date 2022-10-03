@@ -23,7 +23,6 @@ Index:
 1 - Creative Commons BY-SA 4.0 International License
 
 
-
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
