@@ -12,11 +12,11 @@ Index:
 	Belén Estébanez, Nagore García-Medina, Pedro Aragón, Joaquín Hortal and Manuel Molina-Bustamante
 	
 	Both datasets and code were use in the article:"Moss establishment success is determined by the interaction between propagule size and species identity".
-	Link of the article:
+	Link of the article: https://assets.researchsquare.com/files/rs-1358759/v1/6d414dbb-521d-4b6e-bbb0-c29072bb5461.pdf?c=1647365290
 	However, considering their relevance and the lack of information about mosses, we encouraged their use for other publications
 	in our way of seeing science as something reproducible and as knowledge shared for everyone. The datasets and code here described are licensed by the 
 	Creative Commons BY-SA 4.0 International.
-	However, recognition has to be done properly, citing the paper:
+	However, recognition has to be done properly, citing the paper.
 	Please contact us for a proper recognition of the work (or even coauthorship) in developing the dataset and code.
 	Contact E-mail: ferhurboc@gmail.com
 	
