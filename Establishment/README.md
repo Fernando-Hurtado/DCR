@@ -478,8 +478,8 @@ The dataset contains 541 rows and 73 columns.
 The first row contains the name of the columns, and the rest correspond to the 540 samples.
 First 3 columns and column 6 are dedicated to the general identification of the samples. Columns 4 and 5 specifies the type and morfology.
 Columns 8 to 37 are image analysis measurements in wet propagules, and 39 to 68 are image analysis measurements in the dry propagules. Note that the propagules are the same but with different hydrated status. 
-For further information of the image analyses please look at the section Analyze Particles of ImageJ: https://imagej.nih.gov/ij/docs/menus/analyze.html#ap
-Columns 7 and 38 are for the identification of the propagules when subsetting the propagules in wet and dry conditions, respectively
+For further information of the image analyses please look at the section Analyze Particles of ImageJ: https://imagej.nih.gov/ij/docs/menus/analyze.html#ap.
+Columns 7 and 38 are for the identification of the propagules when subsetting the propagules in wet and dry conditions, respectively.
 The rest of columns (69-73) correspond to measurements or obtained through calculations with the collected data.
 
 Column names and descriptions are:
