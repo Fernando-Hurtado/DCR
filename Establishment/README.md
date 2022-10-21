@@ -33,7 +33,7 @@ Column names and descriptions are:
  - (3) Block_Column -> The number of the column within the block corresponding to the sample.
  - (4) Sample -> The name of the species and the fragment size corresponding to the sample.
  - (5) Shoots_established -> The number of shoots established (result obtained after finishing the culture period).
- - (6) S_axles -> The surface occupied by the shoots (in mm²).
+ - (6) S_shoots -> The surface occupied by the shoots (in mm²).
  - (7) S_total -> The surface occupied by the total biomass in the sample (in mm²). Includes viable and non-viable biomass.
  - (8) S_substratum -> The surface occupied by the substratum (in mm²).
  - (9) Sp. -> The species name, one of the following: D. scoparium, H. aureum, H. cupressiforme , P. capillare, S. ruralis or T. squarrosa.
